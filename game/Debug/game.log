@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  character.cpp
+  game.cpp
+  human.cpp
+d:\cuvanje stvari\game\game\pc.h(17): error C2086: 'int pc::_gold': redefinition
+  d:\cuvanje stvari\game\game\pc.h(14): note: see declaration of 'pc::_gold'
+d:\cuvanje stvari\game\game\human.cpp(7): error C2143: syntax error: missing ';' before '}'
+d:\cuvanje stvari\game\game\human.cpp(7): error C2761: '{ctor}': redeclaration of member is not allowed
+d:\cuvanje stvari\game\game\human.cpp(7): error C2059: syntax error: '}'
+d:\cuvanje stvari\game\game\human.cpp(11): error C2143: syntax error: missing ';' before '{'
+d:\cuvanje stvari\game\game\human.cpp(11): error C2447: '{': missing function header (old-style formal list?)
+  map.cpp
+d:\cuvanje stvari\game\game\map.cpp(28): warning C4553: '==': result of expression not used; did you intend '='?
+  pc.cpp
+d:\cuvanje stvari\game\game\pc.h(17): error C2086: 'int pc::_gold': redefinition
+  d:\cuvanje stvari\game\game\pc.h(14): note: see declaration of 'pc::_gold'
+d:\cuvanje stvari\game\game\pc.cpp(6): error C2084: function 'pc::pc(int,int,int)' already has a body
+  d:\cuvanje stvari\game\game\pc.h(9): note: see previous definition of '{ctor}'
+  Generating Code...
