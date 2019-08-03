@@ -8,7 +8,7 @@ using namespace std;
 #include "Displayble.h"
 int main()
 {
-	auto p = Displayble();
+	
 
 }
 

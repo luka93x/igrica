@@ -6,6 +6,9 @@ character::character(int hp,int att,int def):_hp(hp),_att(att),_def(def)
 {
 }
 
+char character::getDisplayChar() {
+	return 'C';
+}
 
 
 character::~character()
